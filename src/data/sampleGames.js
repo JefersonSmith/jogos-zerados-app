@@ -106,6 +106,24 @@ const sampleGames = [
     dateCompleted: "2025-04-04",
     rating: 5,
     imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/5DwFII1MYsBn48HjmvUu0TEd.jpg" // Placeholder, será substituído
+  },
+  {
+    id: 13,
+    title: "Marvel`s Spiderman Miles Morales",
+    summary: "Um jogo de ação e aventura onde você assume o papel de Miles Morales, um jovem super-herói que deve proteger Nova York.",
+    platform: "PS5",
+    dateCompleted: "2025-03-15",
+    rating: 4,
+    imageUrl: "https://upload.wikimedia.org/wikipedia/pt/7/74/Spider-Man_Miles_Morales_capa.png" // Placeholder, será substituído
+  },
+  {
+    id: 14,
+    title: "Ratchet & Clank: Em Outra Dimensão",
+    summary: "Um jogo de ação e aventura onde Ratchet e Clank viajam por dimensões alternativas para salvar o multiverso.",
+    platform: "PS5",
+    dateCompleted: "2025-03-06",
+    rating: 5,
+    imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/HHqeOk9wBe6majuatZsmuFmZ.jpg" // Placeholder, será substituído
   }
 ];
 
