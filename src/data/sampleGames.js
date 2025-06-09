@@ -124,6 +124,15 @@ const sampleGames = [
     dateCompleted: "2025-03-06",
     rating: 5,
     imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/HHqeOk9wBe6majuatZsmuFmZ.jpg" // Placeholder, será substituído
+  },
+  {
+    id: 15,
+    title: "Clair Obscur Expedition 33",
+    summary: "Um jogo de aventura e exploração onde você deve desvendar os mistérios de uma ilha misteriosa.",
+    platform: "PC",
+    dateCompleted: "2025-05-18",
+    rating: 5,
+    imageUrl: "https://www.ndgames.com.br/wp-content/uploads/2025/01/Mobile-capa-ClairObscurExpedition33-png.webp" // Placeholder, será substituído
   }
 ];
 
