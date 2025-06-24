@@ -133,6 +133,15 @@ const sampleGames = [
     dateCompleted: "2025-05-18",
     rating: 5,
     imageUrl: "https://www.ndgames.com.br/wp-content/uploads/2025/01/Mobile-capa-ClairObscurExpedition33-png.webp" // Placeholder, será substituído
+  },
+  {
+    id: 16,
+    title: "Jedi Survivor",
+    summary: "A sequência de Jedi Fallen Order, onde Cal Kestis continua sua jornada para reconstruir a Ordem Jedi enquanto enfrenta novos desafios e inimigos.",
+    platform: "PC",
+    dateCompleted: "2025-06-15",
+    rating: 5,
+    imageUrl: "https://upload.wikimedia.org/wikipedia/pt/9/93/Star_Wars_Jedi_Survivor_capa.png" // Placeholder, será substituído
   }
 ];
 
